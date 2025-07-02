@@ -1,0 +1,3182 @@
+{
+    "1NH21EC001": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 26
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 20,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 14
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": false,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC002": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 20,
+                "attendedClasses": 14
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 13
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 23
+            },
+            {
+                "name": "Java",
+                "totalClasses": 21,
+                "attendedClasses": 11
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC003": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 20
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 20
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 16
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC004": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 26,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 24,
+                "attendedClasses": 22
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 15
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 28,
+                "attendedClasses": 15
+            },
+            {
+                "name": "Java",
+                "totalClasses": 22,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC005": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 27,
+                "attendedClasses": 20
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 27,
+                "attendedClasses": 25
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Java",
+                "totalClasses": 30,
+                "attendedClasses": 21
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC006": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 23,
+                "attendedClasses": 14
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 24
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 30,
+                "attendedClasses": 22
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 24,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 29,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC007": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 24,
+                "attendedClasses": 24
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 29,
+                "attendedClasses": 22
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 27,
+                "attendedClasses": 21
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 22,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 22,
+                "attendedClasses": 22
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": false,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC008": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 25,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 24,
+                "attendedClasses": 15
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 20,
+                "attendedClasses": 14
+            },
+            {
+                "name": "Java",
+                "totalClasses": 21,
+                "attendedClasses": 13
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC009": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 28,
+                "attendedClasses": 23
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 24
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 25,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 29
+            },
+            {
+                "name": "Java",
+                "totalClasses": 23,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC010": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 23,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 24,
+                "attendedClasses": 12
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 25
+            },
+            {
+                "name": "Java",
+                "totalClasses": 20,
+                "attendedClasses": 14
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC011": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 14
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 24,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 10
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 26,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 12
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": false,
+            "2025-04-28": false,
+            "2025-04-29": false,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC012": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 15
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 12
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 24
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 23,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": false,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC013": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 20,
+                "attendedClasses": 12
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 12
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 22,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 28,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC014": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 25,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 28,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 23,
+                "attendedClasses": 23
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 23
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": false,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC015": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 29
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 24,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 28
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 28,
+                "attendedClasses": 24
+            },
+            {
+                "name": "Java",
+                "totalClasses": 22,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": false,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC016": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 22,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 27,
+                "attendedClasses": 25
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 23,
+                "attendedClasses": 14
+            },
+            {
+                "name": "Java",
+                "totalClasses": 23,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC017": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 10
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 23,
+                "attendedClasses": 19
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 20,
+                "attendedClasses": 15
+            },
+            {
+                "name": "Java",
+                "totalClasses": 23,
+                "attendedClasses": 16
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": false,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": false,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC018": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 10
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 28,
+                "attendedClasses": 26
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 26,
+                "attendedClasses": 26
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC019": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 26,
+                "attendedClasses": 24
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 22
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 13
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 21,
+                "attendedClasses": 20
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 14
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC020": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 25,
+                "attendedClasses": 21
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 26,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 20,
+                "attendedClasses": 16
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": false,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC021": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 29,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 25,
+                "attendedClasses": 23
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 21
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 26,
+                "attendedClasses": 26
+            },
+            {
+                "name": "Java",
+                "totalClasses": 20,
+                "attendedClasses": 12
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": false,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC022": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 19
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 26,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 20
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 12
+            },
+            {
+                "name": "Java",
+                "totalClasses": 28,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": false,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC023": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 24,
+                "attendedClasses": 12
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 25,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 27
+            },
+            {
+                "name": "Java",
+                "totalClasses": 26,
+                "attendedClasses": 16
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC024": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 27,
+                "attendedClasses": 19
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 25,
+                "attendedClasses": 12
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 30,
+                "attendedClasses": 29
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 23,
+                "attendedClasses": 23
+            },
+            {
+                "name": "Java",
+                "totalClasses": 29,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC025": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 12
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 24
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 23,
+                "attendedClasses": 12
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 22,
+                "attendedClasses": 22
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC026": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 21
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 13
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 24,
+                "attendedClasses": 20
+            },
+            {
+                "name": "Java",
+                "totalClasses": 21,
+                "attendedClasses": 10
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC027": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 28,
+                "attendedClasses": 25
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 21,
+                "attendedClasses": 15
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 20,
+                "attendedClasses": 11
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 20,
+                "attendedClasses": 11
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC028": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 22,
+                "attendedClasses": 14
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 12
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 27,
+                "attendedClasses": 15
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 21,
+                "attendedClasses": 11
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 16
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC029": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 15
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 24,
+                "attendedClasses": 19
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 23,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 27,
+                "attendedClasses": 16
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC030": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 28,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 10
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 21,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 24
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC031": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 27,
+                "attendedClasses": 17
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 15
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 23
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 28
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 20
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": false,
+            "2025-04-03": false,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": false,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC032": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 11
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 25,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 22
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 23
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC033": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 16
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 20,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 24,
+                "attendedClasses": 13
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 23
+            },
+            {
+                "name": "Java",
+                "totalClasses": 27,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC034": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 27,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 28,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 29,
+                "attendedClasses": 26
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 13
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC035": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 28,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 27,
+                "attendedClasses": 16
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 24,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 23
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC036": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 29,
+                "attendedClasses": 24
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 28,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Java",
+                "totalClasses": 30,
+                "attendedClasses": 24
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": false,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC037": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 26,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 23
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 24,
+                "attendedClasses": 22
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 29,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": false,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC038": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 16
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 29,
+                "attendedClasses": 28
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 21
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 24,
+                "attendedClasses": 23
+            },
+            {
+                "name": "Java",
+                "totalClasses": 29,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": false,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": false,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC039": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 23,
+                "attendedClasses": 22
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 20,
+                "attendedClasses": 12
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 23,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Java",
+                "totalClasses": 27,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": false,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC040": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 23,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 23
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 21,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 22,
+                "attendedClasses": 13
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": false,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC041": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 22,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 24
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 27,
+                "attendedClasses": 27
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC042": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 15
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 21,
+                "attendedClasses": 11
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 23,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Java",
+                "totalClasses": 22,
+                "attendedClasses": 11
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": false,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC043": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 19
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 24,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 21
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 15
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC044": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 24,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 20,
+                "attendedClasses": 14
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 13
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 23,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 30,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": false,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": false,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC045": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 24,
+                "attendedClasses": 15
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 24
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 22
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 21,
+                "attendedClasses": 20
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": false,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC046": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 26,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 28,
+                "attendedClasses": 15
+            },
+            {
+                "name": "Java",
+                "totalClasses": 26,
+                "attendedClasses": 24
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC047": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 23,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 22,
+                "attendedClasses": 17
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 22,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 27,
+                "attendedClasses": 26
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": false,
+            "2025-04-21": false,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC048": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 15
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 25,
+                "attendedClasses": 13
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 23
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 23,
+                "attendedClasses": 14
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": false,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC049": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 24
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 30,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 20,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 29,
+                "attendedClasses": 20
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": false,
+            "2025-04-23": false,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC050": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 26,
+                "attendedClasses": 15
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 26,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Java",
+                "totalClasses": 23,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC051": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 27,
+                "attendedClasses": 26
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 27,
+                "attendedClasses": 27
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 29,
+                "attendedClasses": 19
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 20
+            },
+            {
+                "name": "Java",
+                "totalClasses": 28,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": false,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": false,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC052": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 21,
+                "attendedClasses": 17
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 11
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 29,
+                "attendedClasses": 26
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Java",
+                "totalClasses": 28,
+                "attendedClasses": 17
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": false,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": false,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC053": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 29,
+                "attendedClasses": 20
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 20,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 29,
+                "attendedClasses": 16
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 28,
+                "attendedClasses": 25
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 24
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": false,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC054": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 30,
+                "attendedClasses": 17
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 17
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 10
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 25,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 28,
+                "attendedClasses": 21
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": false,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC055": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 25,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 23,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 14
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 30,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 26,
+                "attendedClasses": 25
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": false,
+            "2025-04-23": true,
+            "2025-04-24": false,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC056": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 25,
+                "attendedClasses": 13
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 28,
+                "attendedClasses": 28
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 28,
+                "attendedClasses": 24
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 18
+            },
+            {
+                "name": "Java",
+                "totalClasses": 20,
+                "attendedClasses": 18
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": false,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC057": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 20,
+                "attendedClasses": 18
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 20
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 20
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 26
+            },
+            {
+                "name": "Java",
+                "totalClasses": 25,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": false,
+            "2025-04-04": true,
+            "2025-04-07": false,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": false,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": false,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": false,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC058": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 23,
+                "attendedClasses": 19
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 21,
+                "attendedClasses": 16
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 21
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 29,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 20,
+                "attendedClasses": 14
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": true,
+            "2025-04-10": false,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": false,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": false,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    },
+    "1NH21EC059": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 27,
+                "attendedClasses": 26
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 30,
+                "attendedClasses": 19
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 23,
+                "attendedClasses": 21
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 27,
+                "attendedClasses": 21
+            },
+            {
+                "name": "Java",
+                "totalClasses": 29,
+                "attendedClasses": 19
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": true,
+            "2025-04-03": true,
+            "2025-04-04": true,
+            "2025-04-07": true,
+            "2025-04-08": true,
+            "2025-04-09": false,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": true,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": false,
+            "2025-04-22": false,
+            "2025-04-23": false,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": true
+        }
+    },
+    "1NH21EC060": {
+        "subjects": [
+            {
+                "name": "Math",
+                "totalClasses": 29,
+                "attendedClasses": 17
+            },
+            {
+                "name": "HDL",
+                "totalClasses": 22,
+                "attendedClasses": 22
+            },
+            {
+                "name": "Microprocessor",
+                "totalClasses": 21,
+                "attendedClasses": 18
+            },
+            {
+                "name": "DSP",
+                "totalClasses": 30,
+                "attendedClasses": 20
+            },
+            {
+                "name": "Java",
+                "totalClasses": 24,
+                "attendedClasses": 14
+            }
+        ],
+        "monthlyAttendance": {
+            "2025-04-01": true,
+            "2025-04-02": false,
+            "2025-04-03": true,
+            "2025-04-04": false,
+            "2025-04-07": false,
+            "2025-04-08": false,
+            "2025-04-09": true,
+            "2025-04-10": true,
+            "2025-04-11": true,
+            "2025-04-14": false,
+            "2025-04-15": true,
+            "2025-04-16": true,
+            "2025-04-17": true,
+            "2025-04-18": true,
+            "2025-04-21": true,
+            "2025-04-22": true,
+            "2025-04-23": true,
+            "2025-04-24": true,
+            "2025-04-25": true,
+            "2025-04-28": true,
+            "2025-04-29": true,
+            "2025-04-30": false
+        }
+    }
+}
